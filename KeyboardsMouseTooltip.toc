@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: Keyboard's MouseTooltip
+## Notes: Anchor the tooltip to the mouse
+## Author: Keyboardturner
+## Version: 0.0.1
+
+KeyboardsMouseTooltip.lua
